@@ -1,0 +1,17 @@
+#modal {
+    display: none;
+    z-index: 10000; 
+	position:absolute;
+    left: 0;
+    top: 0;
+    height: 24px;
+    width: 24px;
+	background-image: url(https://image.flaticon.com/icons/svg/242/242673.svg);
+    background-size: contain;
+	border-radius: 30px;
+	box-shadow: 0 0 3px 1px black;
+
+}
+#modal-value{
+	display: none;
+}
